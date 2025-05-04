@@ -5,3 +5,5 @@ Create an avatar for user
 
 Login
 Logout
+
+Change 1
