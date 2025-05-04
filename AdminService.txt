@@ -1,1 +1,5 @@
 Add and remove users
+Change the role
+manage Database
+
+Closing the commection
