@@ -1,5 +1,7 @@
 Get the user data
 Process
 
-
 Create an avatar for user
+
+Login
+Logout
