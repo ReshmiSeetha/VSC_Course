@@ -2,7 +2,7 @@ Add and remove users
 Change the role
 manage Database
 
-Closing the connection
+Closing the database connection
 
 Change 1
 Change 2 in siva's database
